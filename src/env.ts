@@ -22,9 +22,9 @@ const env: Env = {
   sand: {
     clientId: "pls-sand",
     lang: "ja",
-    authUri: "https://auth.mch.plus.sand.pls.djty.co",
-    verifyNumberUri: "https://auth.mch.plus.sand.pls.djty.co",
-    loginQrcode: "https://auth.mch.plus.sand.pls.djty.co"
+    authUri: "https://www.origin.sand.mchdfgh.xyz/pls-auth-api",
+    verifyNumberUri: "https://www.origin.sand.mchdfgh.xyz/pls-auth-api",
+    loginQrcode: "https://www.origin.sand.mchdfgh.xyz/pls-auth-api"
   },
   prod: {
     clientId: "pls-prod",
