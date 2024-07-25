@@ -11,9 +11,9 @@ const env = {
     prod: {
         clientId: "pls-prod",
         lang: "ja",
-        authUri: "https://auth.mch.plus",
-        verifyNumberUri: "https://auth.mch.plus",
-        loginQrcode: "https://auth.mch.plus"
+        authUri: "https://www.mycryptoheroes.net/pls-auth-api",
+        verifyNumberUri: "https://www.mycryptoheroes.net/pls-auth-api",
+        loginQrcode: "https://www.mycryptoheroes.net/pls-auth-api"
     }
 };
 exports.default = env;
